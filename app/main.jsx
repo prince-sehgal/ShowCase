@@ -5,7 +5,7 @@ var CommentBox = React.createClass({
   render: function() {
     return (
     <div>
-       I am comment box.
+       I am comment.
            <h1>{this.props.name}</h1>
             <CommentList/>
         </div>
