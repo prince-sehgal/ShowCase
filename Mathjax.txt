@@ -1,8 +1,0 @@
-Check this link - 
-http://embed.plnkr.co/qBRAIxR27zK3bpo6QipY/
-
-
-Also, the documentation - 
-http://docs.mathjax.org/en/latest/installation.html
-
-
